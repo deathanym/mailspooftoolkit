@@ -1,7 +1,4 @@
 ![](http://preview.ibb.co/fCW5tm/hs.jpg)
-
- 
-
 ### Requisitos:
 
 * [Python2.7](https://www.python.org/download/releases/2.7/)
@@ -16,6 +13,4 @@
 ```sh
 $ python mail.py
 ```
-
-
 HalfTeam@root
