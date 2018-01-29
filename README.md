@@ -5,7 +5,7 @@
 
 ### Librerias:
 
- pip install clint
+ pip install clint<br>
  pip install termcolor
   
 ### Como utilizar
